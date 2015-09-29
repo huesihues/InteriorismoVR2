@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: b50f5ae99c03e9542b3360100a807028
+timeCreated: 1443177686
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: minotti_milano00
+    100004: minotti_milano01
+    100006: minotti_milano02
+    100008: minotti_milano04
+    100010: minotti_milano05
+    100012: minotti_milano10
+    100014: minotti_milano16
+    100016: minotti_milano18
+    100018: minotti_milano20
+    100020: minotti_milano21
+    100022: minotti_milano23
+    100024: minotti_milano48
+    100026: minotti_milano49
+    100028: minotti_milano50
+    100030: minotti_milano51
+    100032: minotti_milano52
+    100034: minotti_milano53
+    100036: minotti_milano54
+    100038: minotti_milano56
+    100040: minotti_milano57
+    100042: minotti_milano58
+    100044: minotti_milano59
+    100046: module4
+    100048: module5
+    100050: module_01
+    100052: module_02
+    100054: module_03
+    100056: PhysCamera001.Target
+    400000: //RootNode
+    400002: minotti_milano00
+    400004: minotti_milano01
+    400006: minotti_milano02
+    400008: minotti_milano04
+    400010: minotti_milano05
+    400012: minotti_milano10
+    400014: minotti_milano16
+    400016: minotti_milano18
+    400018: minotti_milano20
+    400020: minotti_milano21
+    400022: minotti_milano23
+    400024: minotti_milano48
+    400026: minotti_milano49
+    400028: minotti_milano50
+    400030: minotti_milano51
+    400032: minotti_milano52
+    400034: minotti_milano53
+    400036: minotti_milano54
+    400038: minotti_milano56
+    400040: minotti_milano57
+    400042: minotti_milano58
+    400044: minotti_milano59
+    400046: module4
+    400048: module5
+    400050: module_01
+    400052: module_02
+    400054: module_03
+    400056: PhysCamera001.Target
+    2300000: minotti_milano00
+    2300002: minotti_milano01
+    2300004: minotti_milano02
+    2300006: minotti_milano04
+    2300008: minotti_milano05
+    2300010: minotti_milano10
+    2300012: minotti_milano16
+    2300014: minotti_milano18
+    2300016: minotti_milano20
+    2300018: minotti_milano21
+    2300020: minotti_milano23
+    2300022: minotti_milano48
+    2300024: minotti_milano49
+    2300026: minotti_milano50
+    2300028: minotti_milano51
+    2300030: minotti_milano52
+    2300032: minotti_milano53
+    2300034: minotti_milano54
+    2300036: minotti_milano56
+    2300038: minotti_milano57
+    2300040: minotti_milano58
+    2300042: minotti_milano59
+    3300000: minotti_milano00
+    3300002: minotti_milano01
+    3300004: minotti_milano02
+    3300006: minotti_milano04
+    3300008: minotti_milano05
+    3300010: minotti_milano10
+    3300012: minotti_milano16
+    3300014: minotti_milano18
+    3300016: minotti_milano20
+    3300018: minotti_milano21
+    3300020: minotti_milano23
+    3300022: minotti_milano48
+    3300024: minotti_milano49
+    3300026: minotti_milano50
+    3300028: minotti_milano51
+    3300030: minotti_milano52
+    3300032: minotti_milano53
+    3300034: minotti_milano54
+    3300036: minotti_milano56
+    3300038: minotti_milano57
+    3300040: minotti_milano58
+    3300042: minotti_milano59
+    4300000: minotti_milano58
+    4300002: minotti_milano53
+    4300004: minotti_milano54
+    4300006: minotti_milano56
+    4300008: minotti_milano57
+    4300010: minotti_milano10
+    4300012: minotti_milano02
+    4300014: minotti_milano20
+    4300016: minotti_milano50
+    4300018: minotti_milano59
+    4300020: minotti_milano18
+    4300022: minotti_milano21
+    4300024: minotti_milano23
+    4300026: minotti_milano48
+    4300028: minotti_milano49
+    4300030: minotti_milano01
+    4300032: minotti_milano04
+    4300034: minotti_milano05
+    4300036: minotti_milano51
+    4300038: minotti_milano52
+    4300040: minotti_milano00
+    4300042: minotti_milano16
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
