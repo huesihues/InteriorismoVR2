@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: f293a3eaf0e423d47aa37f4338e7d501
+timeCreated: 1443694946
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: AI33_008_windows_002_01
+    100002: AI33_008_windows_002_02
+    100004: AI33_008_windows_002_03
+    100006: AI33_008_windows_002_04
+    100008: AI33_008_windows_002_05
+    100010: AI33_008_windows_002_06
+    100012: AI33_008_windows_002_07
+    100014: AI33_008_windows_002_08
+    100016: //RootNode
+    100018: zz
+    400000: AI33_008_windows_002_01
+    400002: AI33_008_windows_002_02
+    400004: AI33_008_windows_002_03
+    400006: AI33_008_windows_002_04
+    400008: AI33_008_windows_002_05
+    400010: AI33_008_windows_002_06
+    400012: AI33_008_windows_002_07
+    400014: AI33_008_windows_002_08
+    400016: //RootNode
+    400018: zz
+    2300000: AI33_008_windows_002_01
+    2300002: AI33_008_windows_002_02
+    2300004: AI33_008_windows_002_03
+    2300006: AI33_008_windows_002_04
+    2300008: AI33_008_windows_002_05
+    2300010: AI33_008_windows_002_06
+    2300012: AI33_008_windows_002_07
+    2300014: AI33_008_windows_002_08
+    2300016: zz
+    3300000: AI33_008_windows_002_01
+    3300002: AI33_008_windows_002_02
+    3300004: AI33_008_windows_002_03
+    3300006: AI33_008_windows_002_04
+    3300008: AI33_008_windows_002_05
+    3300010: AI33_008_windows_002_06
+    3300012: AI33_008_windows_002_07
+    3300014: AI33_008_windows_002_08
+    3300016: zz
+    4300000: AI33_008_windows_002_08
+    4300002: AI33_008_windows_002_07
+    4300004: AI33_008_windows_002_06
+    4300006: AI33_008_windows_002_05
+    4300008: AI33_008_windows_002_04
+    4300010: AI33_008_windows_002_03
+    4300012: AI33_008_windows_002_02
+    4300014: AI33_008_windows_002_01
+    4300016: zz
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.35000002
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
